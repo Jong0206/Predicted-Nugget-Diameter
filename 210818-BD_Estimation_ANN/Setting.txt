@@ -1,0 +1,23 @@
+*****Common Setting(5)*****
+1)Feature: P2 P3 P6 P7 P8 P9
+2)
+3)
+4)
+5)
+*****Training Setting(10)*****
+1)File_Name_of_Training_Data: (21.03.09)Feature_H101-128_TrainingData_ND_154-80%.xlsx
+2)Model_Description: (21.07.25)154Data-P236789-Meterial-3layer(48-24-12)_-80%
+3)Node_of_Model: 48 24 12
+4)Iteration_Number: 4
+5)Batch(1or0): 0
+6)
+7)
+8)
+9)
+10)
+*****Estimation Setting(5)*****
+1)File_Name_of_Model: (21.07.25)154Data-P236789-Meterial-3layer(48-24-12)_-80%-3
+2)File_Name_of_Inputset: (21.03.09)Feature_H101-128_TestData_ND_154-20%.xlsx
+3)File_Name_of_Estimated_result: Estimation_210725-154-20%Data(P236789).csv
+4)
+5)
